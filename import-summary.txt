@@ -1,0 +1,89 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* LLConfig.xml
+* LinHibernet\
+* LinHibernet\.git\
+* LinHibernet\.git\COMMIT_EDITMSG
+* LinHibernet\.git\HEAD
+* LinHibernet\.git\config
+* LinHibernet\.git\description
+* LinHibernet\.git\hooks\
+* LinHibernet\.git\hooks\README.sample
+* LinHibernet\.git\index
+* LinHibernet\.git\info\
+* LinHibernet\.git\info\exclude
+* LinHibernet\.git\logs\
+* LinHibernet\.git\logs\HEAD
+* LinHibernet\.git\logs\refs\
+* LinHibernet\.git\logs\refs\heads\
+* LinHibernet\.git\logs\refs\heads\master
+* LinHibernet\.git\objects\
+* LinHibernet\.git\objects\41\
+* LinHibernet\.git\objects\41\2eeda78dc9de1186c2e0e1526764af82ab3431
+* LinHibernet\.git\objects\4b\
+* LinHibernet\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904
+* LinHibernet\.git\objects\56\
+* LinHibernet\.git\objects\56\00280fe684ebef60cf5ecf214c0c81661d6374
+* LinHibernet\.git\objects\58\
+* LinHibernet\.git\objects\58\bcbf82a078b82bee68534fe414dde7a232c0af
+* LinHibernet\.git\objects\8f\
+* LinHibernet\.git\objects\8f\eef8a2ed121c69dfcd7ac978d0385d8c13de59
+* LinHibernet\.git\objects\c6\
+* LinHibernet\.git\objects\c6\51ca1b4871045fcfeae957d4b3928181ae4e1f
+* LinHibernet\.git\refs\
+* LinHibernet\.git\refs\heads\
+* LinHibernet\.git\refs\heads\master
+* ic_launcher-web.png
+* proguard-project.txt
+* uml\
+* uml\SimpleHabernet.uml
+* uml\uml.jpg
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* D:\zhulin\AndroidDeveloper\AndroidSpaceWork\HibernetTest\res\ => app\src\androidTest\res\
+* D:\zhulin\AndroidDeveloper\AndroidSpaceWork\HibernetTest\src\ => app\src\androidTest\java\
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

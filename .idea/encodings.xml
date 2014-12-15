@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="GB2312">
+    <file url="file://$PROJECT_DIR$/app" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/build" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhulin/llhibernet/Session.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhulin/llhibernet/common/Log.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhulin/llhibernet/common/Table.java" charset="GB2312" />
+    <file url="PROJECT" charset="GB2312" />
+  </component>
+</project>
+
